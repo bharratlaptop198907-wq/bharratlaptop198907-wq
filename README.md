@@ -1,3 +1,4 @@
+![logo](https://github.com/bharratlaptop198907-wq/bharratlaptop198907-wq/blob/main/Gemini_Generated_Image_az8xm6az8xm6az8x.png)
 <h1 align="center">Hi 👋, I'm Bharrat Murao</h1>
 <h3 align="center">I am a passionate website developer and AI aspirant looking for a future in the world of Development.</h3>
 
